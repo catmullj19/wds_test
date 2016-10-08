@@ -1,0 +1,20 @@
+wds.py runs the 4 stories with the example data file.
+
+wds.py runs some basic tests.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Improvements:
+
+* Needs a lot more test coverage, perhaps should have taken a TDD aproach from
+the start.
+
+* Better error handling in case of badly formatted input - errors currently
+mostly ignored.
+
+* More comments.
+
+* Improved generalized search of JSON structure.
+
+* Add a GUI for usability.
+
